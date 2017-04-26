@@ -1,0 +1,42 @@
+[
+    {
+        "dueId" : 1,
+        "type" : 1,
+        "user" : "CYSA20160201001",
+        "amount" : 100,
+        "effectiveDate" : "2016-08-04T00:00:00.000Z",
+        "paymentDate" : "2016-08-04T00:00:00.000Z"
+    },
+    {
+        "dueId" : 2,
+        "type" : 1,
+        "user" : "CYSA20160201001",
+        "amount" : 100,
+        "effectiveDate" : "2016-09-04T00:00:00.000Z",
+        "paymentDate" : "2016-09-04T00:00:00.000Z"
+    },
+    {
+        "dueId" : 3,
+        "type" : 1,
+        "user" : "CYSA20160201001",
+        "amount" : 100,
+        "effectiveDate" : "2016-10-04T00:00:00.000Z",
+        "paymentDate" : "2016-10-04T00:00:00.000Z"
+    },
+    {
+        "dueId" : 4,
+        "type" : 1,
+        "user" : "CYSA20160201001",
+        "amount" : 100,
+        "effectiveDate" : "2016-11-04T00:00:00.000Z",
+        "paymentDate" : "2016-11-04T00:00:00.000Z"
+    },
+    {
+        "dueId" : 5,
+        "type" : 1,
+        "user" : "CYSA20160201001",
+        "amount" : 100,
+        "effectiveDate" : "2016-12-04T00:00:00.000Z",
+        "paymentDate" : "2016-12-04T00:00:00.000Z"
+    }
+]

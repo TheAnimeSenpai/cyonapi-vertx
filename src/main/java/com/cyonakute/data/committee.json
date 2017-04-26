@@ -1,0 +1,58 @@
+[
+    {
+        "commid" : "COMM001",
+        "name" : "Editorial",
+        "description" : "In charge of documentation, articles, poems, jokes etc for the organization.",
+        "head" : "CYSA20160201001",
+        "members" : [ "CYSA20160201002" ],
+        "reports" : [ "" ]
+    },
+    {
+        "commid" : "COMM002",
+        "name" : "Social",
+        "description" : "In charge of cultural, drama and other social events for the organization.",
+        "head" : "CYSA20160201001",
+        "members" : [ "CYSA20160201002" ],
+        "reports" : [ "" ]
+    },
+    {
+        "commid" : "COMM003",
+        "name" : "Sports",
+        "description" : "In charge of sporting events and related activities for the organization.",
+        "head" : "CYSA20160201001",
+        "members" : [ "CYSA20160201002" ],
+        "reports" : [ "" ]
+    },
+    {
+        "commid" : "COMM004",
+        "name" : "Disciplinary",
+        "description" : "In charge of keeping members and executives alike in check for the organization.",
+        "head" : "CYSA20160201001",
+        "members" : [ "CYSA20160201002" ],
+        "reports" : [ "" ]
+    },
+    {
+        "commid" : "COMM005",
+        "name" : "Litugical",
+        "description" : "In charge of helping the youth keep the faith.",
+        "head" : "CYSA20160201001",
+        "members" : [ "CYSA20160201002" ],
+        "reports" : [ "" ]
+    },
+    {
+        "commid" : "COMM006",
+        "name" : "Security",
+        "description" : "In charge of ensuring the safety of memebers during programs.",
+        "head" : "CYSA20160201001",
+        "members" : [ "CYSA20160201002" ],
+        "reports" : [ "" ]
+    },
+    {
+        "commid" : "COMM007",
+        "name" : "Bulletin",
+        "description" : "In charge of assisting the church in the sale and distribution of bulltin.",
+        "head" : "CYSA20160201001",
+        "members" : [ "CYSA20160201002" ],
+        "reports" : [ "" ]
+    }
+]

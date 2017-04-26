@@ -1,0 +1,146 @@
+[
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201002",
+        "post" : "presi",
+        "role" : "exec"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201003",
+        "post" : "vp",
+        "role" : "exec"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201004",
+        "post" : "sec",
+        "role" : "exec"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201005",
+        "post" : "ass-sec",
+        "role" : "exec"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201006",
+        "post" : "finsec",
+        "role" : "exec"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201007",
+        "post" : "treasurer",
+        "role" : "exec"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201008",
+        "post" : "dos1",
+        "role" : "exec"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201009",
+        "post" : "dos2",
+        "role" : "exec"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201010",
+        "post" : "welf1",
+        "role" : "exec"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201011",
+        "post" : "welf2",
+        "role" : "exec"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201025",
+        "post" : "pro1",
+        "role" : "exec"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201012",
+        "post" : "pro2",
+        "role" : "exec"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201013",
+        "post" : "provost1",
+        "role" : "exec"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201014",
+        "post" : "provost2",
+        "role" : "exec"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201015",
+        "post" : "exofficio1",
+        "role" : "exec"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201016",
+        "post" : "exofficio2",
+        "role" : "exec"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201017",
+        "post" : "patron",
+        "role" : "patron"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201018",
+        "post" : "patron",
+        "role" : "patron"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201019",
+        "post" : "patron",
+        "role" : "patron"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201020",
+        "post" : "patron",
+        "role" : "patron"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201021",
+        "post" : "patron",
+        "role" : "patron"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201022",
+        "post" : "patron",
+        "role" : "patron"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201023",
+        "post" : "patron",
+        "role" : "patron"
+    },
+    {
+        "tenureid" : 3,
+        "user" : "CYSA20160201024",
+        "post" : "patron",
+        "role" : "patron"
+    }
+]

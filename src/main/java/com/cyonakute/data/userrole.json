@@ -1,0 +1,27 @@
+[
+    {
+        "roleId" : "admin",
+        "name" : "administrator",
+        "description" : "gansta of the platform"
+    },
+    {
+        "roleId" : "exec",
+        "name" : "executive",
+        "description" : "cyon executive"
+    },
+    {
+        "roleId" : "member",
+        "name" : "member",
+        "description" : "floor member of the house"
+    },
+    {
+        "roleId" : "priest",
+        "name" : "priest",
+        "description" : "priests within the church"
+    },
+    {
+        "roleId" : "patron",
+        "name" : "patron",
+        "description" : "patrons within the church"
+    }
+]

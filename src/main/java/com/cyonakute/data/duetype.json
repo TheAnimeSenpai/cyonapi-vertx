@@ -1,0 +1,17 @@
+[
+    {
+        "dueTypeId" : 1,
+        "name" : "Monthly Due",
+        "description" : "Monthly payment by members"
+    },
+    {
+        "dueTypeId" : 2,
+        "name" : "Harvest Levy",
+        "description" : "Levy placed by the harvest committee yearly"
+    },
+    {
+        "dueTypeId" : 3,
+        "name" : "CYON Levy",
+        "description" : "Voluntarily levy placed on members for programs"
+    }
+]

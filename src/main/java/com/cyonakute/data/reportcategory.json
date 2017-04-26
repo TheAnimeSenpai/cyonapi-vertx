@@ -1,0 +1,83 @@
+[
+    {
+        "repCatId" : "minutes",
+        "code" : "Minutes",
+        "description" : "minutes of the meeting",
+        "createdBy" : "Administrator",
+        "createdAt" : "2016-07-04T00:00:00.000Z",
+        "updatedBy" : "Administrator",
+        "updatedAt" : "2016-07-04T00:00:00.000Z"
+    },
+    {
+        "repCatId" : "finance",
+        "code" : "Finance",
+        "description" : "financial report of the house",
+        "createdBy" : "Administrator",
+        "createdAt" : "2016-07-04T00:00:00.000Z",
+        "updatedBy" : "Administrator",
+        "updatedAt" : "2016-07-04T00:00:00.000Z"
+    },
+    {
+        "repCatId" : "deanary",
+        "code" : "Deanary",
+        "description" : "Agbado Deanary report",
+        "createdBy" : "Administrator",
+        "createdAt" : "2016-07-04T00:00:00.000Z",
+        "updatedBy" : "Administrator",
+        "updatedAt" : "2016-07-04T00:00:00.000Z"
+    },
+    {
+        "repCatId" : "diocesian",
+        "code" : "diocesian",
+        "description" : "Diocesian report",
+        "createdBy" : "Administrator",
+        "createdAt" : "2016-07-04T00:00:00.000Z",
+        "updatedBy" : "Administrator",
+        "updatedAt" : "2016-07-04T00:00:00.000Z"
+    },
+    {
+        "repCatId" : "laity",
+        "code" : "Laity",
+        "description" : "Laity report within the church",
+        "createdBy" : "Administrator",
+        "createdAt" : "2016-07-04T00:00:00.000Z",
+        "updatedBy" : "Administrator",
+        "updatedAt" : "2016-07-04T00:00:00.000Z"
+    },
+    {
+        "repCatId" : "ppc",
+        "code" : "Parish Pastoral Council",
+        "description" : "PPC report within the church",
+        "createdBy" : "Administrator",
+        "createdAt" : "2016-07-04T00:00:00.000Z",
+        "updatedBy" : "Administrator",
+        "updatedAt" : "2016-07-04T00:00:00.000Z"
+    },
+    {
+        "repCatId" : "social",
+        "code" : "Social",
+        "description" : "Report concerning any social or spiritual event",
+        "createdBy" : "Administrator",
+        "createdAt" : "2016-07-04T00:00:00.000Z",
+        "updatedBy" : "Administrator",
+        "updatedAt" : "2016-07-04T00:00:00.000Z"
+    },
+    {
+        "repCatId" : "invitations",
+        "code" : "Invitations",
+        "description" : "Invitations from groups or individuals",
+        "createdBy" : "Administrator",
+        "createdAt" : "2016-07-04T00:00:00.000Z",
+        "updatedBy" : "Administrator",
+        "updatedAt" : "2016-07-04T00:00:00.000Z"
+    },
+    {
+        "repCatId" : "others",
+        "code" : "Others",
+        "description" : "Other reports too small to create a category for",
+        "createdBy" : "Administrator",
+        "createdAt" : "2016-07-04T00:00:00.000Z",
+        "updatedBy" : "Administrator",
+        "updatedAt" : "2016-07-04T00:00:00.000Z"
+    }
+]

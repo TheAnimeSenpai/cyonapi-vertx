@@ -1,0 +1,92 @@
+[
+    {
+        "postId" : "presi",
+        "name" : "President",
+        "description" : "Superstar of the house"
+    },
+    {
+        "postId" : "vp",
+        "name" : "Vice-President",
+        "description" : "Assistant super star"
+    },
+    {
+        "postId" : "sec",
+        "name" : "Secretary",
+        "description" : "Does a lot of writing and tracking"
+    },
+    {
+        "postId" : "ass-sec",
+        "name" : "Assisstant Secretary",
+        "description" : "assits the writer"
+    },
+    {
+        "postId" : "finsec",
+        "name" : "Financial Secretary",
+        "description" : "Responsible for recoding money"
+    },
+    {
+        "postId" : "treasurer",
+        "name" : "Treasurer",
+        "description" : "Responsible for holding onto money"
+    },
+    {
+        "postId" : "dos1",
+        "name" : "Director Of Social 1",
+        "description" : "organizer of events"
+    },
+    {
+        "postId" : "dos2",
+        "name" : "Director Of Social 2",
+        "description" : "assistant organizer of events"
+    },
+    {
+        "postId" : "welf1",
+        "name" : "Welfare 1",
+        "description" : "arrangement and welbeing"
+    },
+    {
+        "postId" : "welf2",
+        "name" : "Welfare 2",
+        "description" : "arrangement and welbeing"
+    },
+    {
+        "postId" : "pro1",
+        "name" : "Public Relations Officer 1",
+        "description" : "Knows everybody"
+    },
+    {
+        "postId" : "pro2",
+        "name" : "Public Relations Officer 2",
+        "description" : "Knows everybody"
+    },
+    {
+        "postId" : "provost1",
+        "name" : "Provost 1",
+        "description" : "disciplinary captain"
+    },
+    {
+        "postId" : "provost2",
+        "name" : "Provost 2",
+        "description" : "Assistant disciplinary captain"
+    },
+    {
+        "postId" : "exofficio1",
+        "name" : "Ex-Officio 1",
+        "description" : "old executive"
+    },
+    {
+        "postId" : "exofficio2",
+        "name" : "Ex-Officio 2",
+        "description" : "old executive"
+    },
+    {
+        "postId" : "patron",
+        "name" : "Patron",
+        "description" : "Responsible for providing moral support and financial support (if possible) etc..."
+    },
+    {
+        "postId" : "priest",
+        "name" : "Priest",
+        "description" : "general overseer of the youth..."
+    }
+]

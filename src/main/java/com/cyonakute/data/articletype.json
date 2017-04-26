@@ -1,0 +1,42 @@
+[
+    {
+        "artTypeId" : 1,
+        "name" : "General"
+    },
+    {
+        "artTypeId" : 2,
+        "name" : "Poem"
+    },
+    {
+        "artTypeId" : 3,
+        "name" : "Jokes"
+    },
+    {
+        "artTypeId" : 4,
+        "name" : "Biblical"
+    },
+    {
+        "artTypeId" : 5,
+        "name" : "Liturgical"
+    },
+    {
+        "artTypeId" : 6,
+        "name" : "Political"
+    },
+    {
+        "artTypeId" : 7,
+        "name" : "Priest"
+    },
+    {
+        "artTypeId" : 8,
+        "name" : "Chaplain"
+    },
+    {
+        "artTypeId" : 9,
+        "name" : "Diocecian Youth President"
+    },
+    {
+        "artTypeId" : 10,
+        "name" : "Youth President"
+    }
+]

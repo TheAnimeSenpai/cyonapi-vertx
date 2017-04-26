@@ -1,0 +1,142 @@
+[
+    {
+        "annId" : 1,
+        "title" : "Announcement 1",
+        "message" : "Here's a sample announcement. I don't expect it to be so long as to pose a problem really.",
+        "linkUrl" : "",
+        "createdAt" : "2016-01-01T00:00:00.000Z"
+    },
+    {
+        "annId" : 2,
+        "title" : "Announcement 2",
+        "message" : "Here's a sample announcement. I don't expect it to be so long as to pose a problem really.",
+        "linkUrl" : "",
+        "createdAt" : "2016-01-01T00:00:00.000Z"
+    },
+    {
+        "annId" : 3,
+        "title" : "Announcement 3",
+        "message" : "Here's a sample announcement. I don't expect it to be so long as to pose a problem really.",
+        "linkUrl" : "",
+        "createdAt" : "2016-01-01T00:00:00.000Z"
+    },
+    {
+        "annId" : 4,
+        "title" : "Announcement 4",
+        "message" : "Here's a sample announcement. I don't expect it to be so long as to pose a problem really.",
+        "linkUrl" : "",
+        "createdAt" : "2016-01-01T00:00:00.000Z"
+    },
+    {
+        "annId" : 5,
+        "title" : "Announcement 5",
+        "message" : "Here's a sample announcement. I don't expect it to be so long as to pose a problem really.",
+        "linkUrl" : "",
+        "createdAt" : "2016-01-01T00:00:00.000Z"
+    },
+    {
+        "annId" : 6,
+        "title" : "Announcement 6",
+        "message" : "Here's a sample announcement. I don't expect it to be so long as to pose a problem really.",
+        "linkUrl" : "",
+        "createdAt" : "2016-01-01T00:00:00.000Z"
+    },
+    {
+        "annId" : 7,
+        "title" : "Announcement 7",
+        "message" : "Here's a sample announcement. I don't expect it to be so long as to pose a problem really.",
+        "linkUrl" : "",
+        "createdAt" : "2016-01-01T00:00:00.000Z"
+    },
+    {
+        "annId" : 8,
+        "title" : "Announcement 8",
+        "message" : "Here's a sample announcement. I don't expect it to be so long as to pose a problem really.",
+        "linkUrl" : "",
+        "createdAt" : "2016-01-01T00:00:00.000Z"
+    },
+    {
+        "annId" : 9,
+        "title" : "Announcement 9",
+        "message" : "Here's a sample announcement. I don't expect it to be so long as to pose a problem really.",
+        "linkUrl" : "",
+        "createdAt" : "2016-01-01T00:00:00.000Z"
+    },
+    {
+        "annId" : 10,
+        "title" : "Announcement 10",
+        "message" : "Here's a sample announcement. I don't expect it to be so long as to pose a problem really.",
+        "linkUrl" : "",
+        "createdAt" : "2016-01-01T00:00:00.000Z"
+    },
+    {
+        "annId" : 11,
+        "title" : "Announcement 11",
+        "message" : "Here's a sample announcement. I don't expect it to be so long as to pose a problem really.",
+        "linkUrl" : "",
+        "createdAt" : "2016-01-01T00:00:00.000Z"
+    },
+    {
+        "annId" : 12,
+        "title" : "Announcement 12",
+        "message" : "Here's a sample announcement. I don't expect it to be so long as to pose a problem really.",
+        "linkUrl" : "",
+        "createdAt" : "2016-01-01T00:00:00.000Z"
+    },
+    {
+        "annId" : 13,
+        "title" : "Announcement 13",
+        "message" : "Here's a sample announcement. I don't expect it to be so long as to pose a problem really.",
+        "linkUrl" : "",
+        "createdAt" : "2016-01-01T00:00:00.000Z"
+    },
+    {
+        "annId" : 14,
+        "title" : "Announcement 14",
+        "message" : "Here's a sample announcement. I don't expect it to be so long as to pose a problem really.",
+        "linkUrl" : "",
+        "createdAt" : "2016-01-01T00:00:00.000Z"
+    },
+    {
+        "annId" : 15,
+        "title" : "Announcement 15",
+        "message" : "Here's a sample announcement. I don't expect it to be so long as to pose a problem really.",
+        "linkUrl" : "",
+        "createdAt" : "2016-01-01T00:00:00.000Z"
+    },
+    {
+        "annId" : 16,
+        "title" : "Announcement 16",
+        "message" : "Here's a sample announcement. I don't expect it to be so long as to pose a problem really.",
+        "linkUrl" : "",
+        "createdAt" : "2017-01-01T00:00:00.000Z"
+    },
+    {
+        "annId" : 17,
+        "title" : "Membership",
+        "message" : "All catholic youths between the ages of 15-35 years are mandatory members of the CYON. The members of registered youths are very few, let all who are yet to register endeavour to do so. Let's help move the church forward and spread God's word",
+        "linkUrl" : "",
+        "createdAt" : "2017-01-01T00:00:00.000Z"
+    },
+    {
+        "annId" : 18,
+        "title" : "Drama Rehersals",
+        "message" : "The CYON drama/ cultural group meets every first sunday at 2.00pm. both old and new members are welcome",
+        "linkUrl" : "",
+        "createdAt" : "2017-01-01T00:00:00.000Z"
+    },
+    {
+        "annId" : 19,
+        "title" : "Choir Rehersals",
+        "message" : "The CYON choir unit has it rehearsals every saturday by 5.00pm in the church premises",
+        "linkUrl" : "",
+        "createdAt" : "2017-01-01T00:00:00.000Z"
+    },
+    {
+        "annId" : 20,
+        "title" : "Meeting Time",
+        "message" : "Our meetings are usually held on the first sunday of every month after the 8.00am mass. The dress code for meeting is white and black or the cyon uniforms.",
+        "linkUrl" : "",
+        "createdAt" : "2017-01-01T00:00:00.000Z"
+    }
+]
