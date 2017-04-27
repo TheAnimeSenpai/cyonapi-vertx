@@ -5,6 +5,7 @@ import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Future;
 import io.vertx.core.http.HttpServer;
 import io.vertx.ext.web.Router;
+import io.vertx.ext.web.handler.BodyHandler;
 import io.vertx.ext.web.handler.StaticHandler;
 
 /**
@@ -15,12 +16,15 @@ public class Server extends AbstractVerticle {
     @Override
     public void start(Future<Void> startFuture) {
         Router router = Router.router(vertx);
+        router.route().handler(BodyHandler.create());
 
         // Serve static resources from the /assets directory
         router.route("/assets/*").handler(StaticHandler.create("assets"));
 
         //Announcement section
         router.get("/api/getRecentAnnouncements").handler(AnnouncementController::GetRecentAnnouncements);
+        router.get("/api/getAllAnnouncements").handler(AnnouncementController::GetAllAnnouncements);
+        router.post("/api/AddAnnouncement").handler(AnnouncementController::AddAnnouncement);
 
         HttpServer server = vertx.createHttpServer()
                 .requestHandler(router::accept)
