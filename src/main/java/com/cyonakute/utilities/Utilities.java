@@ -1,7 +1,6 @@
 package com.cyonakute.utilities;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-
 import java.util.Map;
 
 /**
