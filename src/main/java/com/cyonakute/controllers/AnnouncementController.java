@@ -26,18 +26,25 @@ public class AnnouncementController {
             Vertx.currentContext().executeBlocking(startHandler -> {
 
                 JsonObject query = new JsonObject();
+                FindOptions options = new FindOptions();
+                options.setLimit(1);
+                options.setSort(new JsonObject().put("createdAt", -1));
 
-                MongoDbManager.getClient().count(table, query, res -> {
+                MongoDbManager.getClient().findWithOptions(table, query, options, res -> {
                     if(res.succeeded()) {
                         try {
                             Announcement announcement = new Announcement(new JsonObject(context.getBodyAsString()));
 
                             //enter the id value...
-                            announcement.setAnnId(res.result().intValue() + 1);
+                            int previousId = 0;
+                            if(!res.result().isEmpty()) {
+                                previousId = Integer.parseInt(res.result().get(0).getMap().get("annId").toString());
+                            }
+                            announcement.setAnnId(previousId + 1);
 
                             Map objMap = Utilities.ObjectToMap(announcement);
                             JsonObject document = new JsonObject(objMap);
-                            document.put("createdAt", new JsonObject().put("$date","2017-12-19T06:00:00.000Z"));
+                            document.put("createdAt", new JsonObject().put("$date", Utilities.BuildISODateString()));
 
                             MongoDbManager.getClient().save(table, document, saveRes -> {
                                 if (saveRes.succeeded()) {
